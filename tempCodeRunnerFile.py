@@ -1,2 +1,1 @@
-
-            height=self.BTN_HEIGHT,
+generate_barangayClearance

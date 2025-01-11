@@ -17,5 +17,4 @@ pip install customtkinter pillow tkcalendar python-docx docx2pdf pandas matplotl
 
 TO DO:
 
-- ET AL not showing in KP Form NO. 7 (First One)
-- Residents: Change "Issued On" to "Date Issued", and add a Date selector to forms with community certification number
+- Recheck Everything
