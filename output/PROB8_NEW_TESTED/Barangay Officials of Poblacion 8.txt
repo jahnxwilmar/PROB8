@@ -1,0 +1,34 @@
+POBLACION 8 BARANGAY OFFICIALS
+
+PUNONG BARANGAY:
+	Fernando Peñola Buagas
+
+KAGAWAD:
+	Marcel Abeleda Calungsod
+	Emmanuel Abrenica Acosta
+	Rodrigo Pizzaro Tugade
+	Eduardo Villa Doletin
+	Jonathan Ondes Pokles
+	Santiago Omawas Ebo
+	Ryje Krix Doton Mostrales
+
+SECRETARY:
+	Irene Petalcorin Cantor
+
+TREASURER:
+	Teresita Gasatan Ebo
+
+SK CHAIRMAN:
+	JM Bargaso Loquis
+
+LUPON MEMBERS:
+	Epifania Catulong Mapandala
+	Deolibert Paderna Rafaela
+	Jesus Abrenica Acosta Jr.
+	Edna Dela Cruz Bantala
+	Lemuel Decena Orbesido
+	Rosemary Jumawan Albon
+	Jerry Caboquin Torino
+	Mario Rocello Montano
+	Daisy Sansait Amanon
+	Randy Gaco Sanchez
